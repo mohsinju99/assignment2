@@ -1,0 +1,19 @@
+public class Vehicle {
+    String make;
+    String model;
+    int speed = 0;
+    
+    public Vehicle(String make, String model, int speed){
+        this.make = make;
+        this.model = model;
+        this.speed = speed;
+    }
+    
+    public void go() {
+        
+    }
+    
+    public void stop() {
+        
+    }
+}
