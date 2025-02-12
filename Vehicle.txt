@@ -16,4 +16,8 @@ public class Vehicle {
     public void stop() {
         
     }
+
+    public void newFunction() {
+        
+    }
 }
